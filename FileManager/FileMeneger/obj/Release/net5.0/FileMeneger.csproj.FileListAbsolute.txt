@@ -1,0 +1,14 @@
+/Users/marinaromanchukevich/Projects/FileMeneger/FileMeneger/bin/Release/net5.0/FileMeneger.deps.json
+/Users/marinaromanchukevich/Projects/FileMeneger/FileMeneger/bin/Release/net5.0/FileMeneger.runtimeconfig.json
+/Users/marinaromanchukevich/Projects/FileMeneger/FileMeneger/bin/Release/net5.0/FileMeneger.runtimeconfig.dev.json
+/Users/marinaromanchukevich/Projects/FileMeneger/FileMeneger/bin/Release/net5.0/FileMeneger.dll
+/Users/marinaromanchukevich/Projects/FileMeneger/FileMeneger/bin/Release/net5.0/ref/FileMeneger.dll
+/Users/marinaromanchukevich/Projects/FileMeneger/FileMeneger/bin/Release/net5.0/FileMeneger.pdb
+/Users/marinaromanchukevich/Projects/FileMeneger/FileMeneger/obj/Release/net5.0/FileMeneger.GeneratedMSBuildEditorConfig.editorconfig
+/Users/marinaromanchukevich/Projects/FileMeneger/FileMeneger/obj/Release/net5.0/FileMeneger.AssemblyInfoInputs.cache
+/Users/marinaromanchukevich/Projects/FileMeneger/FileMeneger/obj/Release/net5.0/FileMeneger.AssemblyInfo.cs
+/Users/marinaromanchukevich/Projects/FileMeneger/FileMeneger/obj/Release/net5.0/FileMeneger.csproj.CoreCompileInputs.cache
+/Users/marinaromanchukevich/Projects/FileMeneger/FileMeneger/obj/Release/net5.0/FileMeneger.dll
+/Users/marinaromanchukevich/Projects/FileMeneger/FileMeneger/obj/Release/net5.0/ref/FileMeneger.dll
+/Users/marinaromanchukevich/Projects/FileMeneger/FileMeneger/obj/Release/net5.0/FileMeneger.pdb
+/Users/marinaromanchukevich/Projects/FileMeneger/FileMeneger/obj/Release/net5.0/FileMeneger.genruntimeconfig.cache
